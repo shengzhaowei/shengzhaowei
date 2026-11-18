@@ -1,7 +1,6 @@
 ### 盛兆威 · Shengzhaowei
 
-**AI Agent Developer** · Python · Rust
-ERP 自然语言查询 Agent · 多智能体协作平台
+**AI Agent Developer** · Python · Java · TypeScript
 
 I build AI agents that answer real business questions — natural-language queries over ERP data, with a semantic layer, row-level permissions, and evaluation to keep the numbers trustworthy.
 
@@ -9,8 +8,6 @@ I build AI agents that answer real business questions — natural-language queri
 
 ### 🔭 What I'm working on
 
-- **ERP 自然语言查询 Agent** — 基于 Hermess 内核 + MCP 数据服务 + Tauri 桌面端，让业务人员用中文查 ERP（语义层 · 行级权限 · 黄金题库评测）
-- **多智能体协作平台** — 事件驱动的 Agent 协作：事件源 → 过滤 → 路由 → Agent / Worker / Reviewer
 - **[MyBlog](https://github.com/shengzhaowei/MyBlog)** — 个人技术博客（React + Tailwind + Cloudflare Workers）
 
 ### 🧰 Tech Stack
@@ -28,11 +25,6 @@ I build AI agents that answer real business questions — natural-language queri
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🏆 Highlights
-
-- ERP Agent：37 张表的语义层、行级权限、3 项安全修复、Linux + Windows 离线复现包
-- 多智能体协作平台：事件驱动的 Agent / Worker / Reviewer 协作
-- 技术博客：Agent、评测与数据智能体实践手记
 
 ### ✍️ Writing
 
